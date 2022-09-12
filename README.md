@@ -2,7 +2,7 @@
 <!--
 **AniqAqil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working as Fornt-End Intern at a Software Product Company using React.js 
+- 🔭 I’m currently working as Front-End Intern at a Software Product Company using React.js 
 -->
 
 <h1><b>Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </b></h1>
