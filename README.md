@@ -2,8 +2,8 @@
 
 <h1><b>Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </b></h1>
 <h6>🔭 I’m currently working as Front-End Intern at a Software Product Company using React.js </h6>
-
-
+<h6>🎓 Students at Universiti Teknologi Malaysia and enrolled in Bachelor Degree of Science Computer ( Software Engineering ) </h6>
+<h6> 🔥Love to getting out of my comfort zone annd try new challenges </h6>
 
 
 <br>
