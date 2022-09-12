@@ -9,7 +9,7 @@
 <h3>🔭 I’m currently working as Fornt-End Intern at a Software Product Company using React.js </>
 
 
-![Profile views counter shield](https://komarev.com/ghpvc/?username=aniqaqill&style=plastic&color=brightgreen&label=Profile+Viewed:)
+
 
 <br>
 
@@ -17,6 +17,6 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aniqaqill&theme=github-dark)
 
-![GitHub Stats 2](https://github-readme-stats.vercel.app/api?username=aniqaqill&show_icons=true&theme=chartreuse-dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniqaqill&langs_count=10&layout=compact&hide=jupyter%20notebook)
+
+![Profile views counter shield](https://komarev.com/ghpvc/?username=aniqaqill&style=plastic&color=brightgreen&label=Profile+Viewed:)
