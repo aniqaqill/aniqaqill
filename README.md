@@ -6,6 +6,7 @@
 -->
 
 <h1><b>Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </b></h1>
+<h3>🔭 I’m currently working as Fornt-End Intern at a Software Product Company using React.js </>
 
 
 ![Profile views counter shield](https://komarev.com/ghpvc/?username=aniqaqill&style=plastic&color=brightgreen&label=Profile+Viewed:)
