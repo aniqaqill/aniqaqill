@@ -4,6 +4,7 @@
 <h6>🔭 Experienced on working as Front-End Intern at a Software Product Company using React.js in 2022 Summer Break </h6>
 <h6>🎓 Students at Universiti Teknologi Malaysia and enrolled in Bachelor Degree of Science Computer ( Software Engineering ) </h6>
 <h6> 🔥Love to getting out of my comfort zone and try new challenges </h6>
+<h6>  Currently working on various side projects to expand my knowledge on fullstack developement using django and react</h6> 
 
 
 <br>
