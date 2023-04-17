@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
 <h3 align="center">A passionate full stack developer in the making</h3>
 
-- 🔭 I’m currently developing [ReviewMyCafe](https://github.com/aniqaqill/coffeeshop)
+- 🔭 I’m currently developing [ReviewMyCafe](https://github.com/aniqaqill/coffeeshop) using Django MVT Design Pattern
 
 - 🌱 I’m currently learning **NextJS** , **Prisma** , **Django**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-aniqaqill.vercel.app/](https://myportfolio-aniqaqill.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://myportfolio-aniqaqill.vercel.app/)
 
-- 📝 I regularly write articles on [https://aniqaqil.hashnode.dev/](https://aniqaqil.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode Blog](https://aniqaqil.hashnode.dev/)
 
 - 📫 How to reach me **aniqaqil06@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OXJQWtGAlipPLF0DQ1fR6eZRV3IIdD5P/view?usp=share_link)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1OXJQWtGAlipPLF0DQ1fR6eZRV3IIdD5P/view?usp=share_link)
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Languages</h4>
