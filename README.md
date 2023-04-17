@@ -74,15 +74,15 @@
 
 ### DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Vercel](
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haziqzikry&label=Profile%20views&color=0e75b6&style=flat" alt="haziqzikry" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniqaqil&label=Profile%20views&color=0e75b6&style=flat" alt="aniqaqil" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haziqzikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haziqzikry" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniq-aqil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniqaqil" height="30" width="40" /></a>
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=haziqzikry&show_icons=true&locale=en" alt="haziqzikry" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aniqaqil&show_icons=true&locale=en" alt="aniq aqil" /></p>
