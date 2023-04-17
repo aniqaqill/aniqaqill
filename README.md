@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://myportfolio-aniqaqill.vercel.app/)
 
-- 📝 I regularly write articles on [Hashnode Blog](https://aniqaqil.hashnode.dev/)
+- 📝 Sometimes I write articles on [Hashnode Blog](https://aniqaqil.hashnode.dev/)
 
 - 📫 How to reach me **aniqaqil06@gmail.com**
 
