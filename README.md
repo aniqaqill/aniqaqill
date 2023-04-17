@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aniqaqil06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OXJQWtGAlipPLF0DQ1fR6eZRV3IIdD5P/view?usp=share_link](https://drive.google.com/file/d/1OXJQWtGAlipPLF0DQ1fR6eZRV3IIdD5P/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OXJQWtGAlipPLF0DQ1fR6eZRV3IIdD5P/view?usp=share_link)
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Languages</h4>
