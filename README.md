@@ -19,13 +19,6 @@
 ![Profile views counter shield](https://komarev.com/ghpvc/?username=aniqaqill&style=plastic&color=brightgreen&label=Profile+Viewed:)
 
 
-
-<!-- - Programming - Java, HTML, CSS, JS, TS, PHP
-- Frameworks - Node.js, React.js, Express.js, 
-- Data Analytics - Python, R, Power BI, Tableau
-- DevOps Tools – Jenkins, SonarQube, Nexus, Git, Ansible, Azure DevOps
-- Databases - Neo4j, MongoDB, MySQL, Oracle, Azure -->
-
 ## 🛠 Tech I've Used
 
 ### Data Science
@@ -76,7 +69,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Vercel](
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniqaqil&label=Profile%20views&color=0e75b6&style=flat" alt="aniqaqil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniqaqill&label=Profile%20views&color=0e75b6&style=flat" alt="aniqaqil" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -85,4 +78,4 @@
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aniqaqil&show_icons=true&locale=en" alt="aniq aqil" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aniqaqill&show_icons=true&locale=en" alt="aniq aqil" /></p>
