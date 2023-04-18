@@ -51,7 +51,5 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniq aqil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniq aqil" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Support:</h3>
+</p><h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aniqaqil062"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="310" alt="aniqaqil062" /></a></p>
