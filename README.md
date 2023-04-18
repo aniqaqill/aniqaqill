@@ -47,9 +47,9 @@
  </p>
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniqaqill&" alt="aniqaqill" /></p>
- <p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniqaqill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </p>
+ 
+ <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniqaqill&layout=compact)](https://github.com/aniqaqill/github-readme-stats)</p>
+ 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniq aqil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniq aqil" height="30" width="40" /></a>
