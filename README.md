@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NextJS** , **Prisma** , **Django**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://myportfolio-aniqaqill.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio website ](https://myportfolio-aniqaqill.vercel.app/).
 
-- 📝 Sometimes I write articles on [Hashnode Blog](https://aniqaqil.hashnode.dev/)
+- 📝 Sometimes I write articles on my [Hashnode Blog](https://aniqaqil.hashnode.dev/)
 
 - 📫 How to reach me **aniqaqil06@gmail.com**
 
@@ -46,9 +46,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  </p>
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniqaqill&theme=radical" alt="aniqaqill" /></p>
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqaqill&layout=compact&theme=radical" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniqaqill&theme=radical" alt="aniqaqill" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqaqill&layout=compact&theme=radical" /></p>
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
