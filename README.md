@@ -54,4 +54,4 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aniqaqil062"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="510" alt="aniqaqil062" /></a></p>
+<p><a href="https://www.buymeacoffee.com/aniqaqil062"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="310" alt="aniqaqil062" /></a></p>
