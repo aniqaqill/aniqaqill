@@ -47,6 +47,7 @@
  </p>
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniqaqill&" alt="aniqaqill" /></p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniqaqill&layout=compact)](https://github.com/aniqaqill/github-readme-stats&theme=radical)
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
