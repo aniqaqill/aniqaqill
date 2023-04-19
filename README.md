@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
 <h3 align="center">A passionate full stack developer in the making</h3>
 
-- 🔭 I’m currently developing [ReviewMyCafe](https://github.com/aniqaqill/coffeeshop) using Django MVT Design Pattern
-
-- 🌱 I’m currently learning **NextJS** , **Prisma** , **Django**
+- 🌱 I’m currently learning **T3 Stacks** , **NextJS** , **Prisma** , **Django**
 
 - 👨‍💻 All of my projects are available at [my portfolio website ](https://myportfolio-aniqaqill.vercel.app/).
 
 - 📝 Sometimes I write articles on my [Hashnode Blog](https://aniqaqil.hashnode.dev/)
 
-- 📫 How to reach me **aniqaqil06@gmail.com**
+- 📫 Reach me at **aniqaqil06@gmail.com**
 
 - 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1OXJQWtGAlipPLF0DQ1fR6eZRV3IIdD5P/view?usp=share_link)
 
@@ -51,5 +49,5 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniq aqil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniq aqil" height="30" width="40" /></a>
-</p><h3>Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aniqaqil062"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="310" alt="aniqaqil062" /></a></p>
+<h3>Support:</h3>
+<p><a href="https://www.buymeacoffee.com/aniqaqil062"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="310" alt="aniqaqil062" /></a></p></p>
