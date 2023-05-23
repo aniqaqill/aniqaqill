@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
 <h3 align="center">A passionate full stack developer in the making</h3>
 
-- 🌱 Framework that I currently learning  **NextJS** , **NestJS** , **Prisma** , **Django**
+- 🌱 Framework that I currently learning  **NextJS** , **NestJS** , **Django**
 
-- 👨‍💻 My highlighted projects are available at [portfolio website ](https://myportfolio-aniqaqill.vercel.app/).
+- 🍃 Exploring **tRPC** , **Prisma** for quick development with modern technologies
+
+- 🧑🏻‍💻 My highlighted projects are available at [portfolio website ](https://myportfolio-aniqaqill.vercel.app/).
 
 - 📝 Sometimes I write articles on my [Hashnode Blog](https://aniqaqil.hashnode.dev/)
 
