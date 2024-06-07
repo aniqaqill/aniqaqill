@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
 <h3 align="center">A full stack developer in the making</h3>
 
-- 🌱 Framework that I currently learning  **NextJS** , **NestJS** , **Django**
+- 🌱 My go to framework  **NextJS** , **tRPC** , **Prisma** 
 
-- 🍃 Exploring **tRPC** , **Prisma** Tecnologies.
+- 🍃 Exploring **Golang** and **DevOps** Tools.
 
 - 🧑🏻‍💻 My highlighted projects are available at [portfolio website ](https://myportfolio-aniqaqill.vercel.app/).
 
 - 📝 Sometimes I write articles on my [Hashnode Blog](https://aniqaqil.hashnode.dev/)
 
 - 📫 Reach me at **aniqaqil06@gmail.com**
-
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1OXJQWtGAlipPLF0DQ1fR6eZRV3IIdD5P/view?usp=share_link)
+)
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Languages</h4>
@@ -27,8 +26,10 @@
 <h4>Back End</h4>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/> </a>
 <h4>Databases</h4>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="supabase" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
