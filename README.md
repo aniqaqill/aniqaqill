@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
 <h3 align="center">A full stack developer in the making</h3>
 
+- 🧑🏻‍💻 Working with **Python** on QA Automation using **Pytest** and **k6** .
+  
 - 🌱 My go to framework  **NextJS** , **tRPC** , **Prisma** 
 
 - 🍃 Exploring **Golang** and **DevOps** Tools.
@@ -10,7 +12,7 @@
 - 📝 Sometimes I write articles on my [Hashnode Blog](https://aniqaqil.hashnode.dev/)
 
 - 📫 Reach me at **aniqaqil06@gmail.com**
-)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Languages</h4>
