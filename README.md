@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
-<h3 align="center">A full stack developer in the making</h3>
 
-- 🧑🏻‍💻 Working with **Python** on QA Automation using **Pytest** and **k6** .
+- 🧑🏻‍💻 Working mainly with **Python** on Software Engineering Team and QA Engineer using **Golang**, **Pytest** and **k6** .
   
-- 🌱 My go to framework  **NextJS** , **tRPC** , **Prisma** 
+- 🌱 My go to framework  **NextJS** , **tRPC** , **Prisma** to ship quick idea.
 
-- 🍃 Exploring **Golang** and **DevOps** Tools.
+- 🍃 Exploring **Golang** and **DevOps** Tools as aspired to be a Backend Engineer in a year or two.
 
 - 🧑🏻‍💻 My highlighted projects are available at [portfolio website ](https://myportfolio-aniqaqill.vercel.app/).
 
-- 📝 Sometimes I write articles on my [Hashnode Blog](https://aniqaqil.hashnode.dev/)
+- 📝 Some of my write ups is on 
 
 - 📫 Reach me at **aniqaqil06@gmail.com**
 
@@ -46,5 +45,3 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniq aqil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniq aqil" height="30" width="40" /></a>
-<h3>Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aniqaqil062"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="210" alt="aniqaqil062" /></a></p></p>
