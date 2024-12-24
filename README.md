@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aniq Aqil</h1>
+<h1 align="center">Aniq Aqil</h1>
 
-- 🧑🏻‍💻 Working mainly with **Python** on Software Engineering Team and QA Engineer using **Golang**, **Pytest** and **k6** .
-  
-- 🌱 My go to framework  **NextJS** , **tRPC** , **Prisma** to ship quick idea.
+- 🧑🏻‍💻 Working mostly on Software Engineering Team and Automation using **Golang**, **Python** and **Typescript** .
 
-- 🍃 Exploring **Golang** and **DevOps** Tools as aspired to be a Backend Engineer in a year or two.
+- 🍃 Exploring **Golang**, **DevOps** and **Machine Learning** technologies as aspired to be a complete Software Engineer.
 
-- 🧑🏻‍💻 My highlighted projects are available at [portfolio website ](https://myportfolio-aniqaqill.vercel.app/).
+- 🧑🏻‍💻 WIP ML Tools and Backend Engineering 
 
 - 📝 Some of my write ups is on 
 
