@@ -1,10 +1,10 @@
 <h1 align="center">Aniq Aqil</h1>
 
-- 🧑🏻‍💻 Working mostly on Software Engineering and Automation using **Golang**, **Python** and **Typescript** on API development for Data Lake & Analytics.
+- 🧑🏻‍💻 Software Engineering and Automation using **Golang**, **Python** and **Typescript** on API development for Data Lake & Analytics.
 
-- 🍃 Exploring **Golang**, **DevOps** and **Machine Learning** technologies as aspired to be a complete Software Engineer.
+- 🍃 Exploring **Golang**, **DevOps** and **Machine Learning** technologies.
 
-- 🧑🏻‍💻 WIP ML Tools and Backend Engineering 
+- 🧑🏻‍💻 WIP ML Tools and Backend Engineering
 
 - 📝 Some of my write ups is on 
 
