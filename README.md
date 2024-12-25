@@ -8,7 +8,9 @@
 
 - 📝 Some of my write ups is on 
 
-- 📫 Reach me at **aniqaqil06@gmail.com**
+- 📫 Reach me at **aniqaqil06@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniqaqill&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
