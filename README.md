@@ -3,9 +3,7 @@
 
 - 🍃 Exploring **Golang**, **DevOps** and **Machine Learning** technologies.
 
-- 🧑🏻‍💻 WIP ML Tools and Backend Engineering
-
 - 📝 Some of my write ups is on 
 
-- 📫 Reach me at **aniqaqil06@gmail.com**
+- 📫 **aniqaqil06@gmail.com**
 
