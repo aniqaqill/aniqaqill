@@ -1,9 +1,9 @@
 
-- 🧑🏻‍💻 Software Engineering and Automation using **Golang**, **Python** and **Javascript** on API development for Data Lake & Analytics.
+- 🧑🏻‍💻 Software Engineering and Automation using **Java** ,**Golang**, **Python** and **Javascript**.
 
-- ⚒️ Sometimes I dive to Machine Learning too. 
+- ⚒️ Sometimes I explore Machine Learning and DevOps tools too. 
 
-- 📝 My notes is on my [second-brain](https://aniqaqill.github.io/second-brain/)
+- 📝 My notes and article is on my [second-brain](https://aniqaqill.github.io/second-brain/)
 
 - 📫 **aniqaqil06@gmail.com**
 
